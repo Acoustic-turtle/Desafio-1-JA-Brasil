@@ -1,0 +1,27 @@
+h2 {
+    color: #c2c2c2 ;
+    font-style: normal ;
+    position: relative;
+    left: 412px;
+    z-index: 2;
+}
+p {
+    color: #c2c2c2 ;
+    font-style: normal ;
+    padding-left: 375px ;
+    z-index: 2;
+}
+body {
+    background-color: rgb(42, 42, 42) ;
+}
+img {
+    float: left;
+    z-index: 2;
+}
+#video {
+    position: relative;
+    left: 412px  
+}
+body {
+    overflow: hidden;
+}
