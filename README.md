@@ -1,2 +1,2 @@
-# Desafio-1-JA-Brasil
+# Desafio-JA-Brasil
 Primeiro desafio JA Brasil
