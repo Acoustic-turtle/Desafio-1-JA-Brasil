@@ -1,0 +1,41 @@
+h2 {
+    color: #c2c2c2 ;
+    font-style: normal ;
+    position: relative;
+    padding-left: 70px;
+    z-index: 2;
+}
+p {
+    color: #c2c2c2 ;
+    font-style: normal ;
+    z-index: 2;
+    padding: 5px ;
+}
+body {
+    background-image: url(industry.jpg) ;
+    background-size: cover;
+    background-position: fixed ;
+    height: fit-content ;
+}
+img {
+    float: left;
+    z-index: 2;
+}
+.video {
+    height: 300% ;
+    width: 45% ;
+    margin: auto ;
+    border: 0 ;
+    background:rgb(41, 41, 41) ;
+    background-size: 900px ;
+    padding-bottom: 15% ;
+
+}
+.video iframe {
+    padding-left: 20px ;
+
+}
+body {
+    
+   
+}
